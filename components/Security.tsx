@@ -10,7 +10,7 @@ export const Security: React.FC = () => {
             Secure Conversations. Smarter Tax Strategies.
           </h2>
           <p className="text-xl text-gray-300">
-            Built on industry-leading standards to keep your clients' data safe and your firm audit-ready.
+            Built on industry-leading standards to keep your clients&apos; data safe and your firm audit-ready.
           </p>
           <a href="#" className="inline-flex items-center text-primary-400 hover:text-primary-300 font-semibold mt-6 group">
             Learn more about our security

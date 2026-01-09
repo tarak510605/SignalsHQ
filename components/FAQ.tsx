@@ -92,7 +92,7 @@ export const FAQ: React.FC = () => {
         {/* Contact CTA */}
         <div className="mt-16 text-center p-8 bg-gradient-to-r from-primary-50 to-purple-50 rounded-3xl border border-primary-100">
           <h3 className="text-2xl font-bold text-gray-900 mb-3">Still have questions?</h3>
-          <p className="text-gray-600 mb-6">Can't find the answer you're looking for? Our team is here to help.</p>
+          <p className="text-gray-600 mb-6">Can&apos;t find the answer you&apos;re looking for? Our team is here to help.</p>
           <a
             href="#contact"
             className="inline-flex items-center space-x-2 bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-primary-700 transition-colors shadow-lg hover:shadow-xl"
